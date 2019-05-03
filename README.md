@@ -1,4 +1,4 @@
-# kuiz_uts_mobile_develop
+# kuiz_uts_mobile_develop:Gunawan Raharjo 6A
 Berikut tampilan dari project:
 ![alt text](https://github.com/gunawan69/kuiz_uts_mobile_develop/blob/master/update_delete.jpg)
 ![alt text](https://github.com/gunawan69/kuiz_uts_mobile_develop/blob/master/database.jpg)
